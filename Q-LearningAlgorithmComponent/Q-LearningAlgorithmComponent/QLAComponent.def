@@ -1,0 +1,6 @@
+LIBRARY "Q-LearningAlgorithmComponent"  
+EXPORTS 
+DllCanUnloadNow
+DllGetClassObject  
+DllUnregisterServer  
+DllRegisterServer  
